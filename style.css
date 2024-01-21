@@ -1,4 +1,4 @@
-.normalText {font-size: 20px; font-family: 'Nunito', serif; margin-left: 40px; margin-right: 40%; font-weight: normal;}
+.normalText {font-size: 20px; font-family: 'Times New Roman', Times, serif; /*'Nunito', serif;*/ margin-left: 40px; margin-right: 40%; font-weight: normal;}
     
     a{
       color:#e0e9f8;
