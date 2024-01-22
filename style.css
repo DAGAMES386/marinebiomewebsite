@@ -113,9 +113,11 @@
       border: none;
       transition-duration:1s;
       position: fixed;
+      opacity:50%;
     }
 
     .openbtn:hover {
+      opacity:100%;
     	transition-duration:1s;
       background-color: #01101f;
     }
